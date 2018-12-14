@@ -19,7 +19,7 @@
 
 #### 使用方法
 
-* [下载 zip 包](https://github.com/yyued/ENMetadataCleaner/archive/master.zip)；
+* [下载 zip 包](https://github.com/StimeKe/ENMetadataCleaner/archive/master.zip)；
 * 在 Photoshop 中打开需要瘦身的 PSD 文件；
 * 菜单栏在选择 『文件』 >>> 『脚本』 >>> 『浏览』；
 * 选择 zip 包解压后得到的 ENMetadataCleaner.jsx；
